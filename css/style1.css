@@ -1,0 +1,117 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+
+    background-color: red;
+    height: 100px;
+   
+
+
+}
+
+.header h1{
+     text-align: center;
+     color: seashell;
+}
+
+.banner{
+
+    background-color: springgreen;
+    height: 300px;
+
+}
+
+.banner h1 {
+
+    text-align: center;
+    color: white;
+}
+
+.content{
+  overflow: hidden;
+}
+
+.left_content{
+    width: 50%;
+    height:200px;
+    background-color: tomato;
+    float: left;
+}
+
+.left_content  h1{
+    text-align: center;
+    color: white;
+
+}
+
+.right_content{
+    width: 50%;
+    height: 200px;
+    background-color: violet;
+    float: right;
+
+}
+.right_content h1 {
+   text-align: center;
+   color: white;
+}
+
+.item{
+   overflow: hidden;
+}
+
+.first_item{
+   width: 33.3%;
+   height: 250px;
+   background-color: darkgreen;
+   float: left;
+}
+
+.first_item h1{
+    text-align: center;
+    color: white;
+
+
+}
+
+.second_item{
+    width: 33.3%;
+    height: 250px;
+    background-color: darksalmon;
+    float: left;
+}
+.second_item h1{
+
+    text-align: center;
+    color: white;
+
+}
+
+.third_item{
+    width: 33.3%;
+    height: 250px;
+    background-color: darkturquoise;
+    float: left;
+}
+
+
+.third_item h1{
+    text-align: center;
+    color: white;
+
+}
+
+.footer {
+background-color:slateblue;
+height: 100px;
+}
+    
+
+
+.footer h1 {
+text-align: center;
+color: white;
+}
