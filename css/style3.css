@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    overflow: hidden;
+}
+
+
+.logo{
+background-color: khaki;
+height: 100px;
+width: 30%;
+text-align: center;
+float: left;
+}
+
+.menu {
+    background-color:lightcoral;
+    height: 100px;
+    width: 70%;
+    text-align: center;
+    float: right;
+}
+
+.bar{
+    background-color: lightgreen;
+    height: 150px;
+    text-align: center;
+}
+
+.content{
+overflow: hidden;
+}
+
+.left{
+float: left;
+width: 20%;
+background-color: slateblue;
+height: 600px;
+text-align: center;
+}
+
+.center{
+    float: left;
+    width: 60%;
+    background-color:rgb(13, 117, 13);
+    height: 600px;
+    text-align: center;
+    }
+ .right{
+    float: left;
+    width: 20%;
+    background-color:rgb(44, 185, 196);
+    height: 600px;
+    text-align: center;
+ }
+
+ .top{
+height: 30%;
+background-color: purple;
+text-align: center;
+
+ }
+
+ .middle{
+    height: 40%;
+    background-color: rgb(226, 41, 211);
+    text-align: center;
+ }
+
+ .bottom{
+    height: 30%;
+    background-color: lemonchiffon;
+    text-align: center;
+ }
+
+ .middle_left{
+     width: 50%;
+     background-color: sandybrown;
+     text-align: center;
+     height: 100%;
+     float: left;
+ }
+
+ .middle_right{
+    width: 50%;
+    background-color: lavenderblush;
+    text-align: center;
+    height: 100%;
+    float: right;
+}
+
+.footer{
+    text-align: center;
+    background-color: teal;
+    height: 100px;
+}
+
+
+
+    
+    
